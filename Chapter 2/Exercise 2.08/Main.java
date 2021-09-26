@@ -15,6 +15,6 @@ public class Main{
 
         long totalHours = totalMinutes/60;
 
-        System.out.println("The current time is "+totalHours+":"+totalMinutes+":"+(totalSeconds%));     
+        System.out.println("The current time is "+totalHours+":"+totalMinutes+":"+totalSeconds);     
     }
 }
